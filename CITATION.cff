@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: CPpackage
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel
+    name-particle: C.
+    family-names: Fredrickson
+    email: danny@chem.wisc.edu
+    affiliation: University of Wisconsin-Madison
+    orcid: 'https://orcid.org/0000-0002-3717-7008'
+repository-code: 'https://github.com/dcfredrickson/CPpackage/'
+url: 'https://www2.chem.wisc.edu/~danny/software/'
+keywords:
+  - Density functional theory
+  - DFT
+  - Chemical pressure
+license: GPL-3.0-or-later
+commit: abb740fd11d456ef1f0ad8108d922306d4c9c3f2
+version: 3.0-alpha
+date-released: '2023-03-22'
